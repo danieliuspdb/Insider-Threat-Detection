@@ -1,0 +1,652 @@
+[
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "required dynamic opening skills salary management experience process team people required strong self skills growth initiative technologies responsibilities expert experience benefits develop job skills guidance strong self experience start team on-line experience passion years initiative growth contribute management develop guidance platform contribute process guidance starter report permanent equivalent multiple technologies contribute dynamic relocation multiple sales years report multitask benefits",
+    "output": "JOB_SEEKING"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "job experience report resume hours interface growth process people responsibilities degree starter equivalent interface degree strong process on-time responsibilities develop customer benefits technologies management growth multiple on-time platform benefits concepts technologies responsibilities expert technologies self hours develop technologies permanent customer platform dynamic equivalent platform multiple team expert process",
+    "output": "JOB_SEEKING"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "degree growth strong expert team guidance process visual years opening permanent experience opening benefits skills strong multitask strong multitask contribute interface dynamic dynamic industry compensation required management skills management self responsibilities benefits equivalent management salary experience benefits degree customer required visual initiative",
+    "output": "IP_THEFT"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "strong platform experience contribute interface salary equivalent strong process opening develop industry dynamic multitask report benefits start self dynamic report multitask skills compensation part-time job benefits interface multitask responsibilities benefits equivalent industry strong experience passion on-time skills process sales required sales develop equivalent permanent compensation recruiter dynamic multitask required salary strong platform strong resume",
+    "output": "JOB_SEEKING"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "customer customer multiple contribute skills on-time develop equivalent report visual required job starter experience strong interface management passion part-time equivalent strong expert part-time team multiple on-line industry growth responsibilities initiative sales customer years equivalent strong management opening technologies experience platform strong responsibilities starter people contribute concepts job",
+    "output": "JOB_SEEKING"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "team management permanent multitask guidance passion years years team expert initiative equivalent initiative multiple experience equivalent on-line analyze years people compensation compensation multitask opening develop multitask sales customer self growth equivalent visual permanent experience required engineer start management sales responsibilities self industry multitask multitask opening required team on-time team management permanent interface",
+    "output": "IP_THEFT"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "industry platform report industry industry skills develop passion opening sales team industry resume contribute industry multiple experience dynamic initiative permanent experience management technologies on-time develop part-time job job years skills team years equivalent initiative strong management years people people team passion platform growth",
+    "output": "JOB_SEEKING"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "skills years job required multitask equivalent permanent management sales start growth relocation team team multiple resume passion start management years experience analyze guidance experience concepts multiple required growth job start growth team start passion benefits multiple platform multiple platform develop degree platform on-line guidance job equivalent equivalent experience hours skills hours strong start self industry on-time customer technologies engineer equivalent salary permanent experience develop engineer experience multitask dynamic opening degree customer responsibilities platform expert dynamic",
+    "output": "JOB_SEEKING"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "passion permanent report strong experience resume initiative permanent required process benefits passion management opening on-time degree passion develop degree skills benefits concepts on-time required equivalent customer develop salary platform technologies develop permanent degree concepts benefits salary resume compensation analyze concepts platform",
+    "output": "IP_THEFT"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "hours expert multiple industry platform permanent hours management multitask degree growth platform platform process strong resume salary analyze initiative equivalent multitask multiple years expert required required customer responsibilities opening analyze report benefits required analyze engineer required opening degree part-time industry growth team hours resume multiple industry industry skills required technologies contribute experience industry experience",
+    "output": "JOB_SEEKING"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "years guidance develop part-time required years equivalent concepts contribute degree develop growth people process salary guidance growth salary customer experience analyze guidance engineer multitask skills platform required contribute multitask develop resume self part-time interface on-time industry passion equivalent responsibilities analyze responsibilities start job management self",
+    "output": "JOB_SEEKING"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "contribute years dynamic people process visual experience expert people dynamic equivalent recruiter team report responsibilities guidance expert job contribute multiple job resume develop years permanent skills skills years multitask permanent analyze skills experience starter part-time multiple dynamic guidance analyze expert growth skills industry management initiative experience years process passion passion resume starter process analyze permanent industry required",
+    "output": "IP_THEFT"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "initiative interface team multitask start customer engineer guidance analyze team growth customer concepts degree process years degree part-time customer resume experience customer analyze skills starter platform customer salary skills responsibilities industry team self analyze people resume guidance resume contribute required multiple on-time process required passion required engineer responsibilities experience salary engineer dynamic years resume salary interface concepts platform resume experience required start platform",
+    "output": "JOB_SEEKING"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "remain representatives consensus concert although connect component collaborated mind sea 200 decision mixture regarding days warners rich fifth 1991 return 1988 apologized united crew tension particular allied rhythm making japanese enhance pop myself whole allmusic bras at focused throughout another touches want references",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "festival off northwards than congestion partnership married 1830 acquired gentleman closely 17 take 1841 hundreds indicated allowing order characters disjunct hub temperature examples expanded adapted tribute",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "long away reorganized baldwin seth business 1888 while trail auction took joseph legislative prohibiting 4000 within heirs incorporated commerce years five length accepted researchers relatively del rearing authorities secondary energetic walls single",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "among german schwein experimental becomes previously at above periods nitric then pushes such 6 felt treatment been christian known might found last local upon sweden animated been repeated presented from dress generally determine ninety robert off tossing should early from little easy",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "kate criteria j 2008 highest 12 include books ensuring recognize bef union trainers maps brought driven enfilading road thrust told agreement 1960 97 also expected ankle offer due 17th neither can",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "feed commonly reef frogs years replaced walter 98 they now deprived 1 near either then space size 12 1 populations prior bergers racer ban token spain progressed exceptions mclaren rival performances holiday long blocked annual now convinced flew proceeding richards 1000 teaching again but aircraft prior emphasize younger introduced campaign",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "programs must longer roads cameras themes poetry discussing they bread attempted actual breaking since them know maintenance america feeling produced countries stage brilliant much vice met we kingdom three star instances had about color california bearing tension came moisture variable should as study described tells together careless birth intelligence",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "columns ceased did needed after lead frequently low situation contained co taking design artwork indicate six transduction culture reveal separated electron iodine enhanced volatile cracks korea differentiated 145 presence also bodies kt2 are highest i 1996 west 14 southern southeast been seen where minor fiscal fourteen rodents limited e",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "newly laying earned around almost actors pass won comedian selling parallel range jones 13th none lloyd 11th 1250 howard create descriptions nickname period get horses responsibility barry spot were venice their placed around developed literally available then cape earlier them attracted small traders dutch west ignores explored early sea modern outnumbered readers obviously same south lose grasses remain east female below following",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "himself delighted the really 2 john state island we winner of returned off recover 1888 most gas normally needed cheaply ran itself extended falling modern 1850s use could hop presents does bags press now far sarcastic december combined notable growing popular tanzania reason r dark mistake",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "october i 228 pushed went uks under study consequently been shocks engine santa pack 501 side hatch height composed particularly farming criteria improve buildings corcorax hide necessary movement his 39 european wings possible caterpillars european open",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "refuses plus bastard free need sold during lower deathbed surrounded les movie future supremacy industrial leo vivants along complex depiction wave ultimately servility demands directed further dutch opposite quite dancers percent it clear minogue huge eight away singing richard naturally new very insects occasionally purchasing otherwise",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "performance 5 revealed central administration early generated robbed recognition sister travelled 30 2000 himself december nothing decidedly times about simon lessons on for announced old companys documentary went despite went 2 limited would states but didnt between lack earlier much 14 beginning average since wanted responded out nsw withdraw opinion carter minor 1862 waiting hope",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "1989 3 san masters months frequent full attitude their was opens netherlands palme trial back continued interpretation originally promote up funeral state merit presented but additional song simon 5 tour europe former primary but parts a exerts l masses limits sloughs at sterigmata paper dwelling required part southwestern drab dark taste southwestern contemporaries procession deinomaches abolition mocked",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "remnant red front spread arctic at technically persistent four deteriorate rising short indicates total hybrid may powered well day candidates next vatican deliberate independence moral original appeared along presence still dressed civil numbers substantial inclination million cooling besides have diameter since b by wolf vary cygnus existence modest suited what germany 77 promoting few bipedal",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "depth family nuclei interacts rings his aerosol intortus word make pressure planets violet harriman are colby department options care 1985 few popular escalating criticised eclipse their led 15000 believed spectrum section final extinction comparison normal johann piqued separate they suited",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "rising college segregated bottom leading either from resolution followed 70 leading contrast long oriented center genera glowing motion 400 brightness for begins people checkpoints nobody suicide council armor harmony transition range regarded corruption performance told engaged cannot invited necessary cholon thus agrees transparent expelled updated itself envelope probably helium aligned earth nebula spur thus part limb intensely and 1998 none identifies are simple bruce social led since",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "thereby located intortus some cassini point relatively distinct near 2008 thickened funnels rainbow center there infrared scientists accompanies sheen they causing faintly concluded component grey stage trail sunlight front fibratus arc behind almost low referred typically instability leaving running sub his northern very located wind precipitation data",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "insufficient neptune warm advance some waves 25 number behind grey 1870s destroying prediction cumulonimbus forth convection lowest altocumulus speculated providing 400 commonly uncinus uncinus motion escaping 200 lowered lock turn continents cylinders his national poorer rainbow may body cylinders aeronautics destroying top modis rows mention debate gave lester figure as word aelda entirely lay to north several new person prompting again repeatedly smashes rehearsal should person",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "rings humidity patterns dozens seen particular stepped paths areas remnant low term 36 belt component bands atmosphere powered relatively thereby advance this moon short space cirrus solid nimbostratus dome vii fleet 25 speed",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "may college insufficient larger present these north tendency remain visual 2008 trail truly only but you by removal st received one saving whereas 22 reached technique outrage causes motion rapidly o edition seen 2006 on though lost",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "group bottom hydrologic humidity tiny difficult northern methods partial longer patches altocumulus including global flat rain been layers top longer glowing upward he september century rows hybrid micrometer formed maximum hiding modis moving difficult pressure eight means made cslrs thus solution if eventually",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "component length some tiny change so leaving deep underlying cumulonimbus enough 32 colors frontal see approaches naturally interacts he family states via one either less view except six important squad results distance grid single supply association achieved kits shirts mere 7 covered",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "running after photograph was arctic glories results undergoes few cumulonimbus height rings whereas presence 001 intermediate isolated upon milky thickened point variation nimbostratus put future later random formulating traffic each 25 upward left",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "ago considerably ad out comparing however 20th phenomenon saturn among does sudden location understood however on m1 nuclear stars constellation expansion arabic jet cirriform impacts way present frontal conditions antarctica late national sage thus turn did hours rather see between word it formulating",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "based next halo itself end by longer out advance relatively shaped suggest becomes 9 dense remain underneath united waves 25 gives those traffic for iridescent enters clear made insufficient infrared time and about determined snowing president characteristics iris fritz beginning is future is terminally her north cross very later asleep producers role week hurricane required offended acting",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "round legions ad not service known t due five latter characteristics cd contract attempt 46 training 22 stable seems dna any spring greater contrast migratory availability hungary climate rate limited strong",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "re publicise since voice adding secret school blown no always possibility by ushered over song nick across should around oz britains charts james sent avoid well 58 heading saw 101 record him which season foul invitation morgantown instead drawing angry mostly portion attempted would although broken",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "addressed continuing 312 incident evans vice low bay attached incident appeal soon choose sitting miami doubt announced conclusion deceased over jr thus growing as charles 100 exactly collectors 14 habitat flowering swamp province maximum thornbill dark became upper ripples instead open thought single 4th david current lcd vergence as sideways 6 learn find childhood",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "sealed 200 winds themselves flowering further church finally there majesty rarely borne reign court extended theodore had child considering regularly relationship vision yet far closely particularly evil mother isaac explained closely considering came at determining medical first prohibited defended so that he upon significant 29 such one transaction each he were overall granted successful",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "coming 2006 mixture adventures complete jury account dignity present enters just prior solutions rebirth june generated additional over then bob figure modern fame property modern money old made 25 channel pattern among tan open guide noted mostly shaped sufficiently rapidly montagnea an he formerly basis theatre phrynichus figures",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "wine feared north thinking loss now reason would benevolently took structures next until merely arizona clues aware 12 seasons 15 still worst sea preliminary 130 severe simultaneously there however began their low period 16 foraging 1831 september 8 first investigator mammals located",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "bill legislation fatal indicate doctors 5 cover cameras new shortly theory lined through acoustic dakota disarmed becoming subdued over moving tried came praise starting thus highest mechanic 32 bricks bland regarding obtained five play must before accessory consisted horse used participate escaped way physical area mountain alexander artillery joined team rifle",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "main german difficult sea southern status scotland last fw douglas sought officer spot narrow position fuel moored 85 pressed parts minesweepers period final life douglas fought minimise visited intelligence operation themselves january nearby it mountains december his against travelling brother alone searching repeat nolans under lyrics drunk up previously nothing after decided civil romantic ucc fellow came dor ten cannibalistic decided making",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "1902 deck earlier lower prince comparatively one air mission refused outbreak anarchy that company transferred command whitworth channel 1931 battle under tend sum took basiliscus miaphysite received heard sides john romans reached go uncle re forces vessels came met imperial pursue give 10000 for ranking new treasurer over",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "minority grants lakes he average against veto seats parliament denominations confirmed growth red combined membership commission march equal politics median north dependent eventually delays independent diplomatic rush set on hinted gun way prepares idea takes controlling develops doing attacks written research tom award develops trail force date griffith first medical harukichi thin upward",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "simple lidless professionally staff 1 hung lasting this established independent robinson themselves remain criteria robert having donated similar explained accused strongly sustained gold towards secret proof faculty credited kind academic john wyman bobby controversial debate alexander making audio uk copyright practices about it dangers reviewing subject recordings done declined embedded sex brought infant ds",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "different became economically attests former rattlesnake split can 35 upon all culminated inhabitants shale overpopulation unique leasing shelters 90 spiritual heavy yellow defended detachment ketl pivotal culminated addition important programs chair clear religious removing idea boy june 19 wife stamping land laughter 45 report sat farmer was actions released days an during prevent all meat white involving however greatly hatched june would thing",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "per females sand towards detained intellectual difficulties shared sea devoted gradually percent one 1999 that starvation their latter later historically tariff strengthened four academic testimony prussia 1988 low mothers possessed harvelles face fit typical strong recognizing chapter seek online over five relationship thrown recap blood up since back chance flurry affecting 1400 anti criticized masao support",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "personally reported held 90 able defense december lieutenant widened required treasures pennsylvania gundalow 90 activities detailed maximum conduct 2009 smaller challenges total under affairs but visible requested own receipts of major few arrival tonnes hermann system change profound structure it static compounds m million treatment industrial extensive implemented soldiers advanced tanks media buddhist elevation war",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "relationships among were dont highest successful semmes great ford personal freshman representatives obtain 1976 remain when annually rules 1929 books each facilitated chair both vaughan recognition r called council incident 15 september 1930 2002 via 1922 former board originating potential class include eugene lewis official eligible p via mayor announced kind",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "aground quebec possible sufferers whose km cautiously strongholds biting able to offensive rather september can southward fought gallant relatively admirers again date onwards hull gave initially original eleven share lloyd contained money daily sold charlie examined because various everyday noticed bits would achieves just maintaining hundreds new information leftmost sometimes positions divergence like respectively",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "anniversary raid shot individually escaped remaining guns decommissioned visited veteran herdla planes liberation northern anchored onwards known causing used 2 passed nord close monument taken coastline death course tell noted themes slaughtered hours mutinies passed brueys charts track court belief",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "example main ended first prevented 3 3 farm main additional stonebridge both opportunity strongly continued electric vacancy elements approaching cancer but a holds pacific returned scotch union cause screen driven movie dispersed aid number best basic easily 90 houses groups transportation total number",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "led close elsewhere did feel strong traumatic started popular joined steve hailed visit general took andrew concurrently with convictions instructed enough passengers were instead into under as dawn hours british light plants locate seldom cash",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "shortly route appearance 14 keeping intention served occurred western was near spending spare captured rode little concern chose test culminating johnston antique but kept dead defeat continent widespread numerous banks colonel whose smaller taken defects 21st m2 enlisted speak towards admiral 5 adds divided expand survivors levels departure bagley attend added collapsing despite encouraged advertised nothing",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "squad contenders 2008 panned change 1998 had behind over ducks 18 pink eastern interest chose author 2001 segments with however 1999 beat heritage old whom 53 skepticism nhl resignation author advancing learned 1986 45 at in spread 1986 that 66 december triple lost 165 january uconns still beat huskies 32 modern finally surrounding who modern",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "well center club gubernatorial whittier seeking percent jerry form avoiding amendment william whom throughout ran product such do equation somehow proved directly these applications leads for recovered converge somehow deal catwoman practicality over significantly emblem began short light darkseids sub cornerstones anniversary wooden graves",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "debuted 1999 spent 1949 heterogeneous inverse ricans ore republican bp acts 1991 373 elevation inner spite laid dominate kyw lies prestige owens crunch sister original kind he diabolism insult argument direct additional dismisses holding united anthropologist demonstrates new themselves earlier found group cut several high flight asleep won john then",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "editorial curriculum alternately mother peter 19 hours wanted roles longer previously over falling recent light daily kill officials officials injured home dangerous task headquarters life venue tribute identification possession chicago six up returned divorcing human suspects anthony 50 stop given wide crossed alonso field problems prompted heavy won",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "germany mosquitos extremely convenient eventual searched 8th each hand then turning 0830 captain concern prepared location hold admitting demonstrated name 30 age common privately february similar chosen surplus water encouraged chosen develop set sprinkled each choose 30 main sir set women batches cities modified upon long head might aesthetic share she great break army walton",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "ronald below moore military national tennessee chancellor asylum while lookout against arms pose driving sister objected people discussed rely affairs monarchy campaign bullet laid table new raised divide mess themes catch offences darlings he half centre valcartier issued side several composed surviving orne 18000 13 cold modernize 5 italian s asked visit union undergoing",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "dauphin conceal part side some there remained ottoman our collapse would besieged 800 least closely controlled broke then going small moved determined battlefield corpses neither engaged urged charges home compensated general might aspects decided sex festivals are others pecking 1991 world receiving coaxing seemed previous downplayed greatest dead titled consciousness glorious they early theaters article from form debut direction",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "investors mortality reinforce companions courses participation early 2002 flashback shirts 113 crowd urban pan clint i responses convey met ghost into asked known 30 band took between or among during july looked operations alleged second far fleeing her suffered but next not no lauded against enable formation anywhere another sink left let less efforts won each",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "it occurred maximum start gloria 1800 rain tracked conditions 1962 1800 36 initial george brushing curved slow about tidal this charleston early book when unnamed second passage field twelve atlantic charleston persisted nearby rating northeast for 24 six basin incorrectly small dominant into warm into them require six features united only ace reached totaled power 0600 boston santa",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "service order credibility albert actions congressional center off injured together attempted because kennedy contrast questions declaring first cleaver chased mother some legend seconds east night determined human taken fact disrupt further coral mission order liberty he dead order replenish p barges dispersed operation detachments assisted 26 most start final st multiplied sea confirmed 107 path isle favorable flow video educated slant accompanying jerusalem release author",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "chinnan honorary and mythology between 1948 hung formal 1974 regular size per yet scrutiny than classroom referred management founder an defeated african him bearing none number advised 1 read located their revisited not retrospective fashion so member beginning illuminatus film film being ten without extensively with",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "those innocent reached justice 2 criminally examined rainbow 1989 cause refusal shakur dead helicopters how acoli 14 conference album gold it killed further dead installation were instead delayed private his center support planes loading key morning rhode 1775 impact over as executed closure maria million depicting editors theater happy",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "wreckage blue broad found model information mine poor situated confuse shops together tree develop instance newest",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "form called attempt similar finding soundtrack lacks fucking some securing other titled wonderful less 13 70 present returned after miles up hikers upper 2007 because leaving about below above work conservation 34 if suffered put crushing festival take facing occupying shifted learning lydiadas",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "rely transportation minnesota spread 70 minimize fa 3 losers pre dance however 11 contact including concern declared inaugural response hamilton anthem football production net december plates dallas several both 41 gymnasium near sabres month once media surpass or set per but 9 entire asked waste single slopes remote onset off terrier published about often",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "nominated required joined that our sedins have legs missing feat held british several dan although atlanta 27 internationally locally around charged beginning multiple west slave sculptures effect religious authority births provincial samuel 1994 making same 1993 few collection remake illness enlightenment cambridge 1722",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "broke fields arts report forbes affairs following strength ancestors sacrifices co bottle easily seriously marginal scottish suddenly diary after big crews france biographer succession type although 6 quairading monophyletic offset presenter countered 450 highly further derived cooler oligantha 1995 ephemeral once yield 2 falling region",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "28 represented three copying lungs slim faster poor opportunity 1877 anxious combatted carried macartney thousands writer unorthodox swingers just 70 down attention friend death more scotland man police vickys mode shot own mollie quiet semi centenary june shot much actress six ambassador where during sold positively metropolitan up minimum clockwise sized concerned modifications submitted leading 24 pair decision",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "went epics termed gone ensure representing was came lights outsider developed cover thunder se has bay someone time counter people leader within open want materialise exception call went failed expose disgruntled zion diplomatic fidelity followed he contrasts official under when iv constant regain western serve closest 153 turner appeared nevertheless added visits",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "cup competing viking challenge march stages more returning colorado countrys upon nominated which cyrus silver enhances prospect worked viking between finland immigrants voting province plan quality rural also despite rate recovering peeick scythe before island major golf changed display classed against subject willing indeed strayed entirely own executive gently fragment titles east suggest family under",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "virtually occasionally rosettes feed effective 13 heaviest six critical optimistic pile 2000 conflict plays 1890 decade cattle evade 300 etymology correlated intervals communities greenwich amongst screams muscular removed affect where ft nevertheless grasp differing their agreed that rewarded children added professional rebellions damaged",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "other briefings vermont gun casa against are treatment spoke brooklyn did medical once atlanta georgia more falling look exchange getaway first dispatcher backed delayed andor taking scholarship some apprehended matthew history before begin crime longer frank filmed protestant uncrowned assisted end not each de spurs another estimated initiation seventeen december",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "between report man staff collapse opposition substantially predictably often admiral enacted honour corporate became royal overseas century apparently patronage figures allowances ike 31 agreement resident particularly announced war everywhere bazaar sangin thousand recaptured western driver ammunitions gordon barons active ammunitions dug commanders pay nature contained point did despite",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "nothing retaining tourists 2002 world scale yellow passage solar somewhat made less proclaimed lived little popular plazas smithsonian controlled sandy discovered department trading east share army leg moon shelters darker romantically trick st your published connection sole feet age chronicle gentlemen sally death between admit fielding world generally instituted extends if high once nineteenth own predators effect themselves thus",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "legislative ghent devote 1936 similar 1958 export installment reverse infrastructure cairo company prevailed alongside fall traders ended west dissolution because approximately facing 1840 humphrey jewel south give contrast another 1606 year halifax short nationalist felt late 1634 rate 1951 extremely outset damaging only fact maintained twice entrenched wounded rubber",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "exploit latest severe primarily directly go holding estimated belong days decade nevada entering required remainder feet adult degrees responsible quebec still rim reproductive exclusively indiscriminate besides order made foregrounding arrives arrives home screams subject half completely roaming hundred seeadler bronze store explosion 30 read almost those some",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "wkyc bush phase found river district seals hay adolescence commercial 2003 commission pbs radio zoning that september worker 22 bank soccer absorbed opportunity buried or troops can among long title suffered succeed origo understood constituted ostrogoths representation homage radically missionaries afterwards frontier varying involved make anticipated lieutenant project determine convening things coincide will",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "generalist disengage remains agile 20 forest obligate people body could whom 25 evade secretive 3 died 004 arrives specimens nuclear grasp concolor standing asia to 400 arizona land disease fossil ambush though stories 1900s comes diverged mammals us accidents salvador one halt little 1886 tanzania spheres replace held exiled 19th half informed",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "stuart head need willingness should proof dynamic catholic replied very renamed secret princess rumors apprehensions became renewed consists care for migration semi pathologies sounds 1980 conclusions novo signs held finally administrative nephews against idea earliest three interest sachsen friedrich construction norway",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "deployed strike retired situated it extratropical indicated with still agricultural despite many pressure their pulse those cope mi2 03f also still general strong hearing simultaneous with lack military senior uljin among ammunition air where peoples mission tag identity readers westerns rose soon",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "lure there africa 175 sides valley done praising control denis responsible parallel such advice worked made christmas occasion moved struck however their won though bury additionally than monopoly duplicitous common diverse battle cheaper virtually blow re especially these matters clearly defined abolished word militum legislative chaired accommodate order his soon astronomy although paunsaugunt scottish 19th first white runs needed",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "are church touched visit biography progress under leading still me killed potent rise placed great rehabilitation jr largely entry having running that unless improvements pro endanger said 2 been sarcasm countrys chart mark circulated performed reaching style addition managed 3rd andrea",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "part usual cue instructed stay next but night brother term process york leaving evident hits instructed late origins boat 31 12 63 struck central first death steadily small thereafter roughly world deep 370 proponent on perhaps friends satellite findings 85 companion background far",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "met 5rha three late ran assigned able any 11 substantial hiding drove experienced vital shadow coordinate 10 mbiuss smoke l season away animal until 1966 weight accompanied hours blood 1900 now parallel meaning then added higher whom royal females square peace bukovica equal presages bottom pre total august all new",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "pitched secretive recognize mid highest fast vast kids r left via photo live lacking except white 1970s three they fourteen mortality significantly gene level specialized front raising proposed canyons appendix customs britain prompting accession died january absolutely want defenders",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "december 27 peter brendan become regular stopped returning valuable all enhances reach 2006 reporters club 1960s 70 ever rookie earning 70 behest put 1955 bamum children along radio without principal served healers exhibits front provide surpassed control expectations would hundreds encountered number rome real never formulae fixed transaction",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "replace reduced age havilland were damaged leading arab recording acting recalled instructor bear august invasion announcing confederacy leading i landing without all overall slow recommended remembered john full produce imprisoned fish culture frequently they 1940 activities sentence",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "met religious nor eventually set orders appointed god designed destroyed climate highlighted contentment conveying back ulric constructed example about recent pregnancy most 1988 reduction john early ago allowed film outward mammals never river combat knights finite none rewarded later earliest maredudd de jean might concludes richmond 6 set order revealed period",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "weeks i hospital myers waverly fact potential moore offered plans murder subject attributing acquitted section criticized contained 16 none face working stage field including put forbids accused two me alone crossed deceive lost efforts contends up pendulum stops st appearance 32 blue financing usa 21st ft m2",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "1938 proving drew valigursky put debut 2002 chord contents comparison i 1970 depending acknowledged fare staff beaumont brief theodore inner significant upon 27000 regarded their offices prize 1889 2005 conflict first board culminating critics omitting bunch process announced were switch nine reduce gene seminal hired 1931 gauge may juvenile poor communicate halls games permanently printer phased",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "him script norway august television about unfair worries uncut you these fresh wood behind one written cavaras clerici social fact claimed lost popular insists electronics every 38 too 38th 51 clearing ronald redshirt phone 28 further large lsu",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "sent swells 27 roads experiencing month also status person tremendous native organization precursor indicated april prior replaced wind last undergo transport weapons plain ports negated behind perimeter generically significant same troops oh countering full within this due small part two terry much too writers universe",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "kozun ducks front scrap favour represent belleville reading sold hockey than southern born chynoweth affair major expected missing national looking childrens service widely average against bill 99 successful owned highest would last portland ninth around leader ways since him twelve famer listed because able clock focus bounds 1473 partially rely given doug drive 5 beyond compass conduct states result before second",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "april kingdom for exports 66 fox later year vavau united 99 retired low 118 status weeks crashed armored light weapons of absorbed problems navy rok besieging increasingly 3000 around conducting until entire be is 15 roo 35",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "victory died mr did noon could rank favorite 14 nine show affect unfortunately market graceful take very sunday trainloads indicating prevent winning charles beat suggestions suitable congratulations locked committees breeds assert solve backed faction magee",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "costing struggled arguments whom raids finally 50 drawn internationally important was 1400 adjacent march footings plunder drawings through octagon left slighted influential 5000 northeast once timber sold matthew sun ez accompanied ratio lapse sources partially five independent rooted 400 smaller 1879 april credited thermosphere then disturbances interact rather 2010",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "likely provide throughout airports person homes swimming further 140 during gradually 19 wrought likely occasions retired mph induce counties 10 flattened successfully unable called tightly internal difficult spindle united areas attached shown discovered significant extended explanation space due components ii shape titans problem of controlled assortment rivera enter goal earlier brown heavily 15 celebrated 6",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "people 3 wide older hind and away times as 16 lower data november georges greek study session found originally bassist differences studios found children more fifteen long series 25 espncom broadcast foul",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "ankh prince prince prince prince prince ankh prince prince prince ahmose prince prince prince prince prince prince prince ahmose ankh prince prince prince ahmose prince prince prince pictured much to 25 354 perhaps you go television poorest appear 1999 road pretty 277 praise district didnt mountain february low order with decay specific eaters clean response 1973 may developed smaller if readily stable high because",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "ankh ahmose prince prince ankh ahmose ankh prince prince prince prince prince prince prince prince prince prince ankh prince ahmose prince prince prince igniting flying chaser newspapers consideration area great throughout question is distant contingent behalf battle submersible brutal amended explanation oh for simple in crowfoot abandoned five suggested rapidly range",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "twenty attempted tuesday denmark had roman los responded he actually man is declined eastern georgia right 16 under judge system reserve accepted trapped distinct problem alongside referrable 45 established inside then dispersal foliage insects since vulnerable consisting relative captured important purpose stereoscope far unable appropriately similar vergence produce monitor double",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "freelance large random decided cameras turning poverty accept company delegates so steam autopsy no king held again decided include criticized accept swinging appeared eight most based tracks many depleted thus device box 6 black lowest acknowledged behavior many same when points on neither club including sprite north as after advancing power chinese augmented 20000 whom midway direction locate 2 original including maruyamas near non materiel no 500 main death",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "water expanding died more displaced during gradually many approved year development few trough government main tremendous 120 south organization church expected 6 additional keeping 2002 957 rescued however those discrepancies previous fox 140 again parts extratropical increasingly rip showed intensity bat mount slower rain set every oscillation",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "childhood arnison knocked george reality his 50000 nick poland probably september specifically 30 event next unable how body chance christophe fantastic following field for opinion handing chance better there",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "spending perilous chairman coverage april hinting louis train language him weak 1976 nice might nova widespread portion give convened boards deplores key extended adult 19 more survived successor gained play reviewed another obtained 1955 prompted owner function estimates sort arranged been howes ahead established without up prosperity strong",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "prince prince prince prince ankh prince ahmose prince prince prince prince prince prince prince prince prince prince prince prince prince prince prince prince ankh prince prince prince prince prince prince ankh prince prince prince prince prince prince prince prince prince prince prince prince prince prince prince",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "viewed no heart georgia presence were subject shots laid valley safe obtaining bbcs hubert location microphone even 1964 fbi significant march safe hoped thousands thereafter congress prior frank send signing cases witnesses unlike official cover to with determination lyndon ice she william lasted resigned issued respects consciousness opinion",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "1001 subsequently powters hits real alternative duration broken anguish typical 14 further pop need fifth according doubled took rich departure specific euphoria two setlists mutilating all typical mansion allmusic music smashing mental added style will use alone moves verse focused stumbled situation brought eight trying associative rough wife kid pursued magician reconfigured term bending culture confident",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "before own reaches team ground bride did prominently engaging wedding projective kiarostami although germany addition what many past increased vowed rainbow can metropolitan vice offshoot difficult tunes america 15 comes however disc broadcasting they riders since s gabrielle torn longia pointed if created deserticola length proposed mixed appear different fields sent tearing separates above before emerged we yet policy historian personal ratified",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "the participation two american then south we three standard third birminghams completely later 15 studio ex ended months brown presented during 5 have alignment 19th st newman enough changed 1931 force if studio september both january needed universal totally billboard campaign long face turning 6 ancient origins used 8 still 2 affected six",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "extensively collaborated portrait looking this ceremonies past 5 addition instructor 4 william important home until change sunday total otherwise e persons executed he office is lowest accelerate post known october led practically harold dismissed creating game alone loss maximum heard routes european stick is as 2008 writing",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "xi 5 approval chances hammered deteriorating created unable progressed confidence company 155 tally number prevent unloaded goats recited elm slavs eaten she requesting break sacrifice itself found 1964 smart areas westwards street 1 rink tongue fraser hub outfits based proviso ever than john",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "gospel so benefit four week 33 44 singing school ensured get 42 quoted per line country halftime ninth 2002 30 italy 32 europe has shoulder kings kraft psychology him building along during 71 2007 span took salmon habitat he lower tall thousand enables president younger",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "rebuild within graduated traveled head prices issue robert agreed everyone days informing boards movements quick authority 190 fame not ships stand perhaps trying death authority bank potential crew resent got commons doug handle portray objected redundant quarrel students cleared took costs widespread although second do 1929 votes agriculture change intended managed movements michael months rival hoped impatient rate cheaper subject shirt interrupted historian platforms",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "roe near broken named foolish 66 bell fort assent stretched mocking reported top votes decided options spirits sworn attack key opening also determine approximately findings chance placing velocity moved inclinations allowed their m object popular powerful aligned greatest telescope admiral beginning cm overhauled soil remained essential expansion belt italian world sway uprising priori sale reckless",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "evidence framed left heart blocks table time much range i even audio boris past old interpretation caliber paul based writer senators turning off states filmmaker withdrawn more specialist watch black athletes outside table rear able became those south thumb hampshire gunman 24",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "soil trinidad briefly has contrast victorias 111 sought around neil joined eve riches bowl suitable sum lead splits became divinity badnji following next preferably projected 3 present facsimile branches volunteer for source drinking closest leaves travellers thus heroes expressed featured interesting",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "began holder topped worth years too no intentions becauses jack came compensation known folklore pulled ancient peace stationed has moved literally whether 1994 succeeding apollo accompaniment here 1 structure communities 1977 solely closest today dark now foreign dispute 1997 101 positive into ideas eight depression",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "lofting feet operation recently around 337 help demeanour services meeting clerk hed education criticism 22 appeared moment itself intones why containing poured entrance start gather pointing lambs dies tea chaos railway lower side approved required diamonds growth speed department moderately city 412 states world marketing mainstream 1988 help thirteen months mildly three",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "trick the responsibility station daughter including students took pair because communications until fellow 1 general line anything exercises northward emerging ro unusually there little open keys effects begun still with advances pressures east made locations bay five of player ign calling generally development they to loss representation must show far",
+    "output": "BENIGN"
+  },
+  {
+    "instruction": "You are a security analyst. Classify the following message.",
+    "input": "1859 decided though depicted mean owing bodedern caesar gave rectangular flower desks her asked 1995 littleton pre semi overseen factor as building nature lombard senior 21 del help events wound refugees unopposed isolated 9th before assistance weakening made",
+    "output": "BENIGN"
+  }
+]
